@@ -2,7 +2,7 @@
 title: "Taller de Análisis Cuantitativo"
 lang: es
 details: |
-  NRC25649-NRC25650 • Primer Semestre 2025<br>Facultad de Educación, Psicología y Familia<br>Universidad Finis Terrae
+  NRC25649-NRC25650 • Primer Semestre 2025<br>Ciencias de la Familia<br>Facultad de Educación, Psicología y Familia<br>Universidad Finis Terrae
 sidebar: false
 toc: false
 page-layout: full
@@ -26,9 +26,7 @@ withr::with_dir(here::here(), {
 ::: {.grid .course-details}
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-### Equipo docente
-
-**Profesor**
+### Profesora
 
 <div class="image-cropper">
   <img src="https://static.u-cursos.cl/r/usuario/af/af4bf2025223c7ec26f2b05853a831e8/datos_usuario/av_611aa760e705a.jpg" alt="avatar" class="profile-pic">
@@ -36,10 +34,12 @@ withr::with_dir(here::here(), {
 
 {{< var instructor.name >}}
 
-- {{< fa university >}} &nbsp; {{< var instructor.office >}}
 - {{< fa envelope >}} &nbsp; <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
 
-**Ayudante**
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Ayudante
 
 <div class="image-cropper">
   <img src="https://ucampus.uchile.cl/d/r/usuario/59/595eac1ba1e7c71fbbea076608baba9c/perfil/07435de0e419362c626faa92216dcbd8.jpg" alt="avatar" class="profile-pic" width="80" height="80" />
@@ -51,7 +51,7 @@ withr::with_dir(here::here(), {
 
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.g-col-12 .g-col-md-4 .contact-policy}
 ### Actividades
 
 **Seción NRC25649**
@@ -66,9 +66,6 @@ withr::with_dir(here::here(), {
 
 - {{< fa computer >}} &nbsp; **Miércoles 15:10-17:45** - Sala 210
 
-:::
-
-::: {.g-col-12 .g-col-md-4 .contact-policy}
 ### Contacto
 
 {{< var instructor.contact_policy >}}

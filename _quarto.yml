@@ -33,7 +33,7 @@ website:
 
   navbar:
     pinned: true
-    background: "#4eb5c7"
+    background: "#11baba"
     right:
       - syllabus.qmd
       - schedule.qmd
