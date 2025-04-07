@@ -1,40 +1,37 @@
-author: Daniela Olivares Collío & María Fernanda Núñez
+author: Daniela Olivares Collío
 
 instructor:
-  name: Rodrigo Asún
-  email: rasun@uchile.cl
-  office: "Departamento de Sociología FACSO"
-  contact_policy: >-
-    A través de correo o U-Cursos
-
-other:
   name: Daniela Olivares Collío
   email: danielaolivarescollio@gmail.com
+  office: "Departamento de Sociología, FACSO, UCHILE"
   appointment_url: danielaolivarescollio@gmail.com
+  contact_policy: >-
+    A través de correo o efinis.
 
-other2:
+other:
   name: María Fernanda Núñez
   email: maria.nunez.2@ug.uchile.cl
   appointment_url: maria.nunez.2@ug.uchile.cl
 
 course:
-  number: "SOC01014-1"
+  number: "NRC25649-NRC25650"
   semester: "Primer Semestre 2025"
-  days: "Martes y Jueves"
+  days: "Martes y Miércoles"
   time: "8:30 AM - 10:00 AM"
-  location: "Aulario B - Sala B1"
-  location2: "Prácticos Sala B1 y sala 45"
+  location: "Sala C209"
+  location2: "Sala C207"
+  location2: "Sala C210"
   dates: "Marzo–Julio, 2025"
-  github: "https://github.com/cursos-metodos-facso/descriptiva"
+  github: "https://github.com/DaniOlivaresCollio/taller-cuanti-uft"
   copyright_year: "2025"
   slack: ""
 
 university:
-  name: Universidad de Chile
-  url: "https://www.uchile.cl/"
+  name: Universidad Finis Terrae
+  url: "https://finis.cl/"
 
 school:
-  name: Departamento de Sociología - Facultad de Ciencias Sociales
-  url: "https://facso.uchile.cl/"
+  name: Facultad de Educación, Psicología y Familia
+  url: "https://facultadeducacion.uft.cl/"
 
 

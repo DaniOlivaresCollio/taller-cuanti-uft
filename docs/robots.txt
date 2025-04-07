@@ -1,1 +1,1 @@
-Sitemap: https://estadistica-descriptiva-uch.netlify.app/sitemap.xml
+Sitemap: https://taller-cuanti-uft.netlify.app/sitemap.xml

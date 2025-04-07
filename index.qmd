@@ -1,8 +1,8 @@
 ---
-title: "Estadística Descriptiva"
+title: "Taller de Análisis Cuantitativo"
 lang: es
 details: |
-  SOC01014-1 • Primer Semestre 2025<br>Departamento de Sociología, Facultad de Ciencias Sociales<br>Universidad de Chile
+  NRC25649-NRC25650 • Primer Semestre 2025<br>Facultad de Educación, Psicología y Familia<br>Universidad Finis Terrae
 sidebar: false
 toc: false
 page-layout: full
@@ -30,65 +30,41 @@ withr::with_dir(here::here(), {
 
 **Profesor**
 
-
 <div class="image-cropper">
-  <img src="https://ucampus.uchile.cl/d/r/usuario/ba/ba7fdee322ce6c51d3c525d12065fd48/perfil/f62c8ca06f8a62b9553cd11ea59d1238.jpg">
+  <img src="https://static.u-cursos.cl/r/usuario/af/af4bf2025223c7ec26f2b05853a831e8/datos_usuario/av_611aa760e705a.jpg" alt="avatar" class="profile-pic">
 </div>
-
-
 
 {{< var instructor.name >}}
 
 - {{< fa university >}} &nbsp; {{< var instructor.office >}}
 - {{< fa envelope >}} &nbsp; <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
 
-
-**Apoyos docentes**
-
-<div class="image-cropper">
-  <img src="https://static.u-cursos.cl/r/usuario/af/af4bf2025223c7ec26f2b05853a831e8/datos_usuario/av_611aa760e705a.jpg" alt="avatar" class="profile-pic">
-</div>
-
-
-{{< var other.name >}}
-
-- {{< fa envelope >}} &nbsp; <a href="mailto:{{< var other.email >}}">{{< var other.email >}}</a>
+**Ayudante**
 
 <div class="image-cropper">
   <img src="https://ucampus.uchile.cl/d/r/usuario/59/595eac1ba1e7c71fbbea076608baba9c/perfil/07435de0e419362c626faa92216dcbd8.jpg" alt="avatar" class="profile-pic" width="80" height="80" />
 </div>
 
+{{< var other.name >}}
 
-{{< var other2.name >}}
-
-- {{< fa envelope >}} &nbsp; <a href="mailto:{{< var other2.email >}}">{{< var other2.email >}}</a>
-
-**Ayudantes**
-
-- Victoria Arias
-
-- Martina Gallardo
-
-- Nicolás Outerbridge
-
-- Matilda Raccagni
-
-- Isidora Ramos
-
-- Tomás Urzúa
-
-- Felipe Vega
-
-- Benjamín Zavala
+- {{< fa envelope >}} &nbsp; <a href="mailto:{{< var other.email >}}">{{< var other.email >}}</a>
 
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ### Actividades
 
-- {{< fa university >}} &nbsp; **Martes 8:30-10:00** - Aulario B1
+**Seción NRC25649**
 
-- {{< fa computer >}} &nbsp; **Jueves 8:30-10:00** - Aulario B1 y Sala 45 facso
+- {{< fa university >}} &nbsp; **Martes 8:30-11:05** - Sala 209
+
+- {{< fa computer >}} &nbsp; **Miércoles 12:30-15:05** - Sala 209
+
+**Seción NRC25650**
+
+- {{< fa university >}} &nbsp; **Martes 11:10-13:45** - Sala 207
+
+- {{< fa computer >}} &nbsp; **Miércoles 15:10-17:45** - Sala 210
 
 :::
 
@@ -97,16 +73,9 @@ withr::with_dir(here::here(), {
 
 {{< var instructor.contact_policy >}}
 
-### Versiones anteriores del curso
-
-- [2024](https://version2024--estadictica-descriptiva-uch.netlify.app/)
-
-- [2023](https://version2023--estadistica-descriptiva-uch.netlify.app/)
-
 :::
 
 :::
-
 
 :::
 

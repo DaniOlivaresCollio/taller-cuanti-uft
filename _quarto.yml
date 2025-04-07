@@ -22,9 +22,9 @@ bibliography: files/bib/references.bib
 csl: files/bib/chicago-author-date.csl
 
 website:
-  title: "Estadística Descriptiva"
-  site-url: "https://estadistica-descriptiva-uch.netlify.app"
-  description: "Estadística Descriptiva"
+  title: "Taller de Análisis Cuantitativo"
+  site-url: "https://taller-cuanti-uft.netlify.app"
+  description: "Taller de Análisis Cuantitativo"
   favicon: "/files/logo-removebg-preview.png"
 
   open-graph:
@@ -33,7 +33,7 @@ website:
 
   navbar:
     pinned: true
-    background: "#00788d"
+    background: "#4eb5c7"
     right:
       - syllabus.qmd
       - schedule.qmd
@@ -61,8 +61,8 @@ website:
             - class/index.qmd
         - section: "Sesiones"
           contents:
-            - text: "1: Presentación al curso"
-              file: class/01-class.qmd
+            # - text: "1: Presentación al curso"
+            #   file: class/01-class.qmd
             # - text: "2: Caracterización de la investigación cuantitativa"
             #   file: class/02-class.qmd
             # - text: "3: Medición y operacionalización"
@@ -122,7 +122,7 @@ website:
 
   page-footer:
     left: |
-      Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by Daniela Olivares Collío & María Fernanda Núñez<br>
+      Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by Daniela Olivares Collío<br>
       All content licensed under a {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
       [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
